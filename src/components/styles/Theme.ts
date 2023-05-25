@@ -7,8 +7,8 @@ export const light = {
     text: "hsl(0, 1%, 16%)",
     cardBgc: "hsl(60, 40%, 100%)",
     cardTitle: "hsl(0, 1%, 38%)",
-    quoteBody: "hsl(0, 1%, 38%);",
-    quoteBorder: "hsl(0, 0%, 87%)",
+    cardBody: "hsl(0, 1%, 38%);",
+    cardBorder: "hsl(0, 0%, 87%)",
     border: "hsl(0, 0%, 87%)",
   },
 };
